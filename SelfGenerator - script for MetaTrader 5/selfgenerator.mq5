@@ -1,0 +1,1 @@
+string Q,S="string Q,S=%s;void OnStart(){Q=CharToString(34);S=StringFormat(S,Q+S+Q);int h=FileOpen(__FILE__,FILE_WRITE|FILE_TXT);FileWrite(h,S);FileClose(h);}";void OnStart(){Q=CharToString(34);S=StringFormat(S,Q+S+Q);int h=FileOpen(__FILE__,FILE_WRITE|FILE_TXT);FileWrite(h,S);FileClose(h);}

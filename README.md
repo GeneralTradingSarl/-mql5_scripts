@@ -19,3 +19,12 @@ Each subfolder contains:
 - An individual README.md with details and usage
 
 > Made with ❤️ for the trading community. 
+## Support & Contributions
+
+If you appreciate this work and would like to support the project or make a contributive gift, you can send your donations to the following address:
+
+**USDT Address (TRC20):**
+TCFN1ng97DnMNHKrtyWuUUnUeQN3nZChrG
+
+---
+*Note: This is a TRON network (TRC20) address only.*

@@ -6,11 +6,15 @@ If you find this project useful, please consider starring ⭐, sharing, or donat
 
 ---
 
-**Support the project:**
-- Star this repository on GitHub
-- Share it with your trading friends
-- [Donate here](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID) to help us grow!
+## Support & Contributions
 
+If you appreciate this work and would like to support the project or make a contributive gift, you can send your donations to the following address:
+
+**USDT Address (TRC20):**
+TCFN1ng97DnMNHKrtyWuUUnUeQN3nZChrG
+
+---
+*Note: This is a TRON network (TRC20) address only.*
 ---
 
 Each subfolder contains:
